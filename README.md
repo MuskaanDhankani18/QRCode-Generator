@@ -1,2 +1,2 @@
 # QRCode-Generator
-Its a simple QR Code generator developed using Python.
+It is a simple QR Code generator developed using Python.
